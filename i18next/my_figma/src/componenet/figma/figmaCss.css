@@ -1,0 +1,46 @@
+.rasm{
+    width: 150px;
+    height: 50px;
+}
+.navbarr{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(7, 158, 158, 0.879);
+    height: 80px;
+}
+.ull{
+    margin-left: 60px;
+}
+.ull li{
+    margin: 0 10px;
+    color: white;
+}
+.ull li:hover{
+    background-color: rgba(255, 255, 255, 0.088);
+    border-radius: 10px;
+}
+.header{
+    background-image: url(../img/serv-relation-1.jpg);
+    height: 100%;
+    width: 500px;
+    object-fit: cover;
+    background-size: 100%;
+}
+.rang{
+    background-color: rgba(250, 235, 215, 0.841);
+}
+.ayol{
+    transform:rotate(-10deg);
+    /* transform: scaleX(1.5); */
+}
+.opa1{
+    background-color: aquamarine;
+}
+.font{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.logoo{
+    background-color: rgba(127, 255, 212, 0.624);
+}
+
